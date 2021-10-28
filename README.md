@@ -45,7 +45,7 @@ git commit -m "init"
 ```
 git pull origin master
 ```
-- envoyer les ficiers :
+- envoyer les fichiers :
 ```
 git push  origin mastezr
 ```
