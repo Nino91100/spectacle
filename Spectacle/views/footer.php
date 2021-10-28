@@ -7,7 +7,6 @@
             <p><a href="index.php?page=concert" class="text-light">Concerts</a></p>
             <p><a href="index.php?page=cirque" class="text-light">Cirques</a></p>
             <p><a href="index.php?page=theatres" class="text-light">Thêatres</a></p>
-            <p><a href="index.php?page=Seconnecter" class="text-light">Se connecter/S'inscrire</a></p>
         </div>
         <div class="col-sm-12 col-md-4 p-5 text-center">
             <p class="text-center">
