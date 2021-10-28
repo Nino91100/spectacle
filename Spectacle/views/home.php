@@ -7,7 +7,7 @@
     </div>
 
     <div id="row">
-         <h3>Les Piéce de Theatres Du Jour</h3>
+         <h3>Les Pièces de Theatres Du Jour</h3>
      <div class="Box">
         
          
@@ -52,7 +52,7 @@
          <?php }    ?>
      </div>
      </div>
-     <h3>Les Concert de Theatres</h3>
+     <h3>Les Concerts</h3>
       <div class="Box">
          
           <?php 

@@ -4,7 +4,7 @@ session_start();
 
 require_once('../config/database.php');
 
-if ($_SERVER['HTTP_REFERER'] == 'http://localhost/dossier-tp/Spectacle/admin/form.php') { // vérifie qu'on vient bien du formulaire
+if ($_SERVER['HTTP_REFERER'] == 'http://localhost/spectacle/Spectacle/admin/form.php') { // vérifie qu'on vient bien du formulaire
 
     // nettoyage des données
     $name = htmlspecialchars($_POST['name']);

@@ -1,4 +1,3 @@
-a
 <?php
     session_start();
     if (isset($_SESSION['notification'])) {
